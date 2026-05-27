@@ -29,6 +29,8 @@ The objective of SmartDine is to reduce manual restaurant operations and provide
 
 ## Author
 Pragati Jain
+Palak Jain
+Lakshita Prajapat
 =======
 # Resturant
 A web-based restaurant table booking and management system designed to provide a seamless dining reservation experience.
