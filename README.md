@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartDine
 
 SmartDine is a smart restaurant management and food ordering system designed to simplify dining experiences through digital technology.
@@ -28,3 +29,7 @@ The objective of SmartDine is to reduce manual restaurant operations and provide
 
 ## Author
 Pragati Jain
+=======
+# Resturant
+A web-based restaurant table booking and management system designed to provide a seamless dining reservation experience.
+>>>>>>> dda3582c701971f5bcf56562bed1f8321d8a91e8
