@@ -1,0 +1,207 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "We use only the finest, freshly sourced ingredients to prepare every dish. Our commitment to quality ensures a rich, wholesome dining experience every single time." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Our expert chefs blend traditional recipes with modern techniques, creating bold and unforgettable flavors that keep our guests coming back for more." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Enjoy your favorite meals delivered hot and fresh to your doorstep. Our efficient delivery system ensures your food arrives quickly without compromising on taste." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./paneer_tikka_masala.png",
+                "title": "PANEER TIKKA MASALA",
+                "category": "Dinner",
+                "price": 350,
+                "spiceLevel": "spicy",
+                "description": "Soft paneer cubes simmered in a rich tomato and onion gravy, infused with aromatic Indian spices.",
+                "isVeg": true
+            },
+            {
+                "id": 2,
+                "image": "./shahi_paneer.png",
+                "title": "SHAHI PANEER",
+                "category": "Lunch",
+                "price": 420,
+                "spiceLevel": "mild",
+                "description": "A rich and delicious royal paneer dish cooked in a creamy cashew and tomato gravy.",
+                "isVeg": true
+            },
+            {
+                "id": 3,
+                "image": "./aloo_paratha.png",
+                "title": "ALOO PARATHA",
+                "category": "Breakfast",
+                "price": 280,
+                "spiceLevel": "medium",
+                "description": "Warm, buttery flatbread stuffed with a spiced potato mixture, served fresh from the griddle.",
+                "isVeg": true
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "STUFFED STRAWBERRY",
+                "category": "Dessert",
+                "price": 150,
+                "spiceLevel": "mild",
+                "description": "Fresh strawberries stuffed with cream cheese and drizzled with chocolate ganache.",
+                "isVeg": true
+            },
+            {
+                "id": 5,
+                "image": "./veggie_burger.png",
+                "title": "VEGGIE BURGER MEAL",
+                "category": "Lunch",
+                "price": 199,
+                "spiceLevel": "spicy",
+                "description": "Crispy vegetable patty with fresh lettuce, melted cheese, and a tangy signature sauce in a toasted bun.",
+                "isVeg": true
+            },
+            {
+                "id": 6,
+                "image": "./mushroom_soup.png",
+                "title": "CREAMY MUSHROOM SOUP",
+                "category": "Starter",
+                "price": 180,
+                "spiceLevel": "mild",
+                "description": "A rich, creamy broth loaded with fresh earthy mushrooms and aromatic herbs.",
+                "isVeg": true
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Dinner",
+                "price": 220,
+                "spiceLevel": "medium",
+                "description": "Classic Italian spaghetti with a rich tomato basil sauce, topped with parmesan.",
+                "isVeg": true
+            },
+            {
+                "id": 8,
+                "image": "./paneer_skewers.png",
+                "title": "GRILLED PANEER SKEWERS",
+                "category": "Starter",
+                "price": 310,
+                "spiceLevel": "spicy",
+                "description": "Freshly grilled paneer chunks marinated in fiery spices, served with mint chutney and veggies.",
+                "isVeg": true
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./indian_chef_1.png",
+                "name": "VIKAS KHANNA",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./indian_chef_2.png",
+                "name": "RANVEER BRAR",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./indian_chef_3.png",
+                "name": "GARIMA ARORA",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./indian_chef_4.png",
+                "name": "SANJEEV KAPOOR",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
+
